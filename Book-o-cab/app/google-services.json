@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "121005737712",
+    "firebase_url": "https://book-o-cab.firebaseio.com",
+    "project_id": "book-o-cab",
+    "storage_bucket": "book-o-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121005737712:android:25e6730919d31e4c",
+        "android_client_info": {
+          "package_name": "om.example.admin.book_o_cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121005737712-u3fv8qpr9cnkja1prsfsop9t8sm3eeva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3CgxcfvSyoGUFlJ4_kvS7YnFo9RwjeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
